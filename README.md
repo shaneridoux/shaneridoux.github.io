@@ -1,4 +1,4 @@
-# Graduate Student
+# Shane Ridoux
 ## Statistician and Data Scientist
 
 ### Education
