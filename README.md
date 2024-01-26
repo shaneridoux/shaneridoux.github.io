@@ -1,3 +1,5 @@
+
+![](/img/headshot_reverse.jpg)
 # Shane Ridoux
 ## Statistician and Data Scientist
 
