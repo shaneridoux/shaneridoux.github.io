@@ -7,6 +7,7 @@ img[src$="#headshot"] {
   border-radius: 50%;  
   max-width: 50%;  
   float: left;
+  clear: left;
 }
 </style>  
 
