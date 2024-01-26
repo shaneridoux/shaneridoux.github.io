@@ -1,11 +1,11 @@
 
 <img src="/img/headshot_reverse.jpg#headshot" width="25%" height="25%">
 
-img[src$="#headshot"] {
-  display: block;
-  margin: 0 auto;
-  border-radius: 50%;
-  max-width: 50%;
+img[src$="#headshot"] {  
+  display: block;  
+  margin: 0 auto;  
+  border-radius: 50%;  
+  max-width: 50%;  
 }
 
 # Shane Ridoux
