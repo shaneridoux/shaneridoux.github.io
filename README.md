@@ -1,5 +1,5 @@
 
-<img src="/img/headshot_reverse.jpg" width="50%" height="50%">
+<img src="/img/headshot_reverse.jpg" width="25%" height="25%">
 
 # Shane Ridoux
 ## Statistician and Data Scientist
