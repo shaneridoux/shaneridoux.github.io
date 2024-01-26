@@ -1,12 +1,13 @@
 
 <img src="/img/headshot_reverse.jpg#headshot" width="25%" height="25%">
-
+<style>  
 img[src$="#headshot"] {  
   display: block;  
   margin: 0 auto;  
   border-radius: 50%;  
   max-width: 50%;  
 }
+</style>  
 
 # Shane Ridoux
 ## Statistician and Data Scientist
