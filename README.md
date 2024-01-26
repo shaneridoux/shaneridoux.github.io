@@ -1,5 +1,5 @@
 
-<img src="/img/headshot_reverse.jpg#headshot" width="25%" height="25%">
+<img src="/img/headshot_reverse.jpg#headshot" width="25%" height="25%" href="css/style.css">
 <div style="clear: both;"></div>
 
 # Shane Ridoux
