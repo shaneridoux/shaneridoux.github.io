@@ -1,5 +1,6 @@
 
-![](/img/headshot_reverse.jpg)
+<img src="/img/headshot_reverse.jpg" width="50%" height="50%">
+
 # Shane Ridoux
 ## Statistician and Data Scientist
 
