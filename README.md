@@ -1,5 +1,5 @@
 
-<img src="/img/headshot.jpg#headshot" width="25%" height="50%">
+<img src="/img/headshot.jpg#headshot" width="25%" height="75%">
 <div style="clear: both;"></div>
 <style>  
 img[src$="#headshot"] {  
