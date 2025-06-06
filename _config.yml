@@ -22,7 +22,7 @@ repository               : "shaneridoux/shaneridoux.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "resized-image.jpeg"
+  avatar           : "headshot-transformed.jpeg"
   name             : "Shane E. Ridoux"
   pronouns         : "he/him"  
   bio              : "Genetic epidemiologist-in-training   PhD student @ ColoradoSPH"
