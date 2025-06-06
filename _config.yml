@@ -22,10 +22,10 @@ repository               : "shaneridoux/shaneridoux.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "resized-image.jpeg"
   name             : "Shane E. Ridoux"
   pronouns         : "he/him"  
-  bio              : "Genetic epidemiologist-in-training | PhD student @ ColoradoSPH"
+  bio              : "Genetic epidemiologist-in-training   PhD student @ ColoradoSPH"
   location         : "Aurora, CO"
   employer         : "Colorado School of Public Health"
   uri              : # URL
