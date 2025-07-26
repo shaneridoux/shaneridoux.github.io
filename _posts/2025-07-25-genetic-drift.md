@@ -9,4 +9,5 @@ tags:
   - epidemiology
 ---
 
-<iframe src="/files/genetic_drift.html" width="100%" height="600px" style="border:none;"></iframe>
+<object data="/files/genetic_drift.html" width="100%" height="700px" type="text/html"></object>
+
