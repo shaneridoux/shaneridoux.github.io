@@ -8,13 +8,13 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
- # - title: "Publications"
- #   url: /publications/
+  #- title: "Publications"
+  #   url: /publications/
 
-#  - title: "Talks"
+ # - title: "Talks"
  #   url: /talks/    
 
-#  - title: "Teaching"
+ # - title: "Teaching"
  #   url: /teaching/    
         
   - title: "Blog Posts"
@@ -30,5 +30,5 @@ main:
   # - title: "Portfolio"
   #  url: /portfolio/
     
-   - title: # "Guide"
-    url: /markdown/
+  # - title:  "Guide"
+  #  url: /markdown/
