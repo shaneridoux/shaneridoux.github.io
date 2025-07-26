@@ -1,5 +1,5 @@
 ---
-title: 'Genetic Drift'
+title: 'What is Genetic Drift?'
 date: 2025-07-25
 permalink: /posts/2025/07/genetic-drift/
 tags:
@@ -8,6 +8,5 @@ tags:
   - genetics
   - epidemiology
 ---
-What is genetic drift?
-[READ MORE](/files/genetic_drift.html)
+Sometimes, chance alone can change the fate of genes in a population. [Read more](/files/genetic_drift.html)
 
