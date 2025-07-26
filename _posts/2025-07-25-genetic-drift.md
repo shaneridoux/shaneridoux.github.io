@@ -9,5 +9,5 @@ tags:
   - epidemiology
 ---
 What is genetic drift?
-[READ MORE](<object data="/files/genetic_drift.html" width="100%" height="700px" type="text/html"></object>)
+[READ MORE](/files/genetic_drift.html)
 
