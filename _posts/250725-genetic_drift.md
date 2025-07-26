@@ -1,7 +1,7 @@
 ---
 title: 'Genetic Drift'
 date: 2025-07-25
-permalink: /posts/2025/07/blog-post-1/
+permalink: /posts/2025/07/genetic-drift/
 tags:
   - genetic drift
   - learning
