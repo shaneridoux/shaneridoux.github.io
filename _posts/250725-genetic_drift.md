@@ -10,5 +10,5 @@ tags:
 ---
 
 Genetic Drift
-============
-
+=========
+<iframe src="~/Work/science_communication/genetic_drift.html" width="100%" height="600px" style="border:none;"></iframe>
