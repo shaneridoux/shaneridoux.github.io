@@ -2,6 +2,7 @@
 title: 'What is Genetic Drift?'
 date: 2025-07-25
 permalink: /posts/2025/07/genetic-drift/
+reading-time: 10
 tags:
   - genetic drift
   - learning
